@@ -1,0 +1,111 @@
+{
+  "total_videos": 15,
+  "average_detection_rate": 52.692711516445556,
+  "videos": [
+    {
+      "video_name": "1.mp4",
+      "output_video": "1.mp4",
+      "total_frames": 31,
+      "visible_frames": 2,
+      "detection_rate": 6.451612903225806
+    },
+    {
+      "video_name": "10.mov",
+      "output_video": "10.mp4",
+      "total_frames": 201,
+      "visible_frames": 189,
+      "detection_rate": 94.02985074626866
+    },
+    {
+      "video_name": "11.mov",
+      "output_video": "11.mp4",
+      "total_frames": 177,
+      "visible_frames": 48,
+      "detection_rate": 27.11864406779661
+    },
+    {
+      "video_name": "12.mov",
+      "output_video": "12.mp4",
+      "total_frames": 138,
+      "visible_frames": 64,
+      "detection_rate": 46.3768115942029
+    },
+    {
+      "video_name": "13.mov",
+      "output_video": "13.mp4",
+      "total_frames": 178,
+      "visible_frames": 50,
+      "detection_rate": 28.08988764044944
+    },
+    {
+      "video_name": "14.mov",
+      "output_video": "14.mp4",
+      "total_frames": 196,
+      "visible_frames": 194,
+      "detection_rate": 98.9795918367347
+    },
+    {
+      "video_name": "15.mov",
+      "output_video": "15.mp4",
+      "total_frames": 178,
+      "visible_frames": 67,
+      "detection_rate": 37.640449438202246
+    },
+    {
+      "video_name": "2.mov",
+      "output_video": "2.mp4",
+      "total_frames": 293,
+      "visible_frames": 161,
+      "detection_rate": 54.94880546075085
+    },
+    {
+      "video_name": "3.mov",
+      "output_video": "3.mp4",
+      "total_frames": 262,
+      "visible_frames": 163,
+      "detection_rate": 62.213740458015266
+    },
+    {
+      "video_name": "4.mov",
+      "output_video": "4.mp4",
+      "total_frames": 265,
+      "visible_frames": 164,
+      "detection_rate": 61.886792452830186
+    },
+    {
+      "video_name": "5.mov",
+      "output_video": "5.mp4",
+      "total_frames": 243,
+      "visible_frames": 77,
+      "detection_rate": 31.68724279835391
+    },
+    {
+      "video_name": "6.mov",
+      "output_video": "6.mp4",
+      "total_frames": 361,
+      "visible_frames": 293,
+      "detection_rate": 81.16343490304709
+    },
+    {
+      "video_name": "7.mov",
+      "output_video": "7.mp4",
+      "total_frames": 237,
+      "visible_frames": 169,
+      "detection_rate": 71.30801687763713
+    },
+    {
+      "video_name": "8.mov",
+      "output_video": "8.mp4",
+      "total_frames": 209,
+      "visible_frames": 98,
+      "detection_rate": 46.889952153110045
+    },
+    {
+      "video_name": "9.mov",
+      "output_video": "9.mp4",
+      "total_frames": 274,
+      "visible_frames": 114,
+      "detection_rate": 41.605839416058394
+    }
+  ]
+}
