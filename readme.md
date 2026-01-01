@@ -288,25 +288,3 @@ The evaluation script generates:
 3. **Event Detection**: Detect ball bounces, catches, boundaries
 4. **Player Tracking**: Integrate player detection for context
 5. **Real-time Processing**: Optimize for live streaming scenarios
-
----
-
-## 📧 Contact
-
-For questions or issues, contact: [Your Email]
-
-**Submission Date**: January 2, 2026
-
----
-
-## 📄 License
-
-This project is submitted as part of the EdgeFleet.AI assessment for IIT BHU.
-
----
-
-## 🙏 Acknowledgments
-
-- **Ultralytics**: YOLOv8 implementation
-- **FilterPy**: Kalman filter library
-- **EdgeFleet.AI**: Assessment opportunity
